@@ -102,7 +102,7 @@ final class BuildAttributesFormSubscriber implements EventSubscriberInterface
         /** @var AttributeValueInterface $attribute */
         foreach ($product->getAttributes() as $attribute) {
             if (null === $attribute->getValue()) {
-                $product->removeAttribute($attribute);
+                //$product->removeAttribute($attribute);
             }
         }
     }
