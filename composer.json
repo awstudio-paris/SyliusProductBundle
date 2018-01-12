@@ -1,5 +1,5 @@
 {
-    "name": "sylius/product-bundle",
+    "name": "awstudio/product-bundle",
     "type": "symfony-bundle",
     "description": "Product catalog for your Symfony2 applications.",
     "keywords": ["shop", "ecommerce", "products", "product", "assortment"],
